@@ -1,0 +1,3 @@
+From: 0 To: 1  Distance: 10 Km   Info: connect tank with house 1
+From: 0 To: 2  Distance: 12 Km   Info: connect tank with house 2
+From: 1 To: 2  Distance: 1 Km   Info: connect house1 with house 2
